@@ -1,1 +1,0 @@
-{"id":"ba8c24","name":"wallet.restore-ledger.org","url":"http://wallet.restore-ledger.org","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site phishing for secrets with POST /mnemonic.php","reporter":"CryptoScamDB"}

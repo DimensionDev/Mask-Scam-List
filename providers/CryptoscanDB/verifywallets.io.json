@@ -1,1 +1,0 @@
-{"id":"cbd5a9","name":"verifywallets.io","url":"http://verifywallets.io","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /verify.php?cmd=login_submit","reporter":"CryptoScamDB"}

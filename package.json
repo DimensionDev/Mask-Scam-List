@@ -18,6 +18,7 @@
     "urlcat": "^2.0.4"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.188",
     "@types/node": "^18.11.9",
     "prettier": "^2.7.1",
     "pretty-quick": "^3.1.3",

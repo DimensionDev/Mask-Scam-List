@@ -1,1 +1,0 @@
-{"id":"ef6b96","name":"bytetrade.com","url":"http://bytetrade.com","path":"/*","category":"Phishing","subcategory":"Exchange","description":"Fake DEX phishing for secrets with POST //p4.bytetrade.com/bittrade/v1/me?cmd=getUserInviter&userid=my_mnemonic","reporter":"CryptoScamDB"}

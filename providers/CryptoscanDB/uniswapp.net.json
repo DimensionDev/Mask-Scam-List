@@ -1,1 +1,0 @@
-{"id":"48a7d8","name":"uniswapp.net","url":"https://uniswapp.net","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Uniswap app phishing for secrets with POST /server.php?type=metamask&password=&team=&phrase={secret}","reporter":"CryptoScamDB"}

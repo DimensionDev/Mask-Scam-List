@@ -1,1 +1,0 @@
-{"id":"7050bf","name":"wallet.chianlink.org","url":"http://wallet.chianlink.org","path":"/*","category":"Phishing","subcategory":"WebWallet","description":"Fake wallet interface phishing for secrets with POST /login.php?privateKey=xxx","reporter":"CryptoScamDB"}

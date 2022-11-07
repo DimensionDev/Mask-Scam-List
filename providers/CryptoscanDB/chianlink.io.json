@@ -1,1 +1,0 @@
-{"id":"a7dd78","name":"chianlink.io","url":"http://chianlink.io","path":"/*","category":"Phishing","subcategory":"Chainlink","description":"Fake chainlink site, directing users to wallet.chianlink.io to phish secrets with post /login.php?privateKey=xxx","reporter":"CryptoScamDB"}

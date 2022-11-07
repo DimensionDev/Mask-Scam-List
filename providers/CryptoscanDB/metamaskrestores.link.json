@@ -1,0 +1,1 @@
+{"id":"65f23e","name":"metamaskrestores.link","url":"http://metamaskrestores.link","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with GET /unlock/mnemonic.php?mnemonic=<mnemonic>&submit= ","reporter":"CryptoScamDB"}

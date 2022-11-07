@@ -1,0 +1,1 @@
+{"id":"9b8e67","name":"wallet.elitetreum.com","url":"http://wallet.elitetreum.com","path":"/*","category":"Phishing","subcategory":"Elitetreum","description":"Asking for private keys and sending to the backend via POST /import-wallet and sending it to user email in plaintext","reporter":"CryptoScamDB"}

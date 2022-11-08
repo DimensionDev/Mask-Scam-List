@@ -1,0 +1,1 @@
+{"id":"c2b725","name":"login-trezor.io","url":"http://login-trezor.io","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake Trezor site phishing for secrets with POST /ssnd_3.php","reporter":"CryptoScamDB"}

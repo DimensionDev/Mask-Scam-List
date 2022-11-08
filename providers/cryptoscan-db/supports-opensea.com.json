@@ -1,0 +1,1 @@
+{"id":"67ac07","name":"supports-opensea.com","url":"https://supports-opensea.com","path":"/*","category":"Phishing","subcategory":"Opensea","description":"Fake OpenSea support site phishing for secrets with POST //firestore.googleapis.com/ (projects/axieinfinity-supportwallet-db/databases/(default)//support-axiewallet2)","reporter":"CryptoScamDB"}

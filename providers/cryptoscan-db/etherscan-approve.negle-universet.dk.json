@@ -1,0 +1,1 @@
+{"id":"3cc527","name":"etherscan-approve.negle-universet.dk","url":"https://etherscan-approve.negle-universet.dk","path":"/*","category":"Phishing","subcategory":"Etherscan","description":"Fake Etherscan site phishing for secrets with POST /network.approve.ethersan.io/approve/send.php","reporter":"CryptoScamDB"}

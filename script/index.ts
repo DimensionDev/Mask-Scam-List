@@ -46,6 +46,7 @@ export async function main() {
   const filter = new ScalableBloomFilter(list.length)
 
   for (const site of list) {
+    if(site.name === "https") continue
     filter.add(site.name)
     await writeSingleWebsiteToFile(site.name, site)
   }
@@ -59,6 +60,7 @@ export async function main() {
   const importedFilter = ScalableBloomFilter.fromJSON(contentJSON)
 
   for (const item of list) {
+    if(item.name === "https") continue
     if (!importedFilter.has(item.name)) throw new Error('Bloom Filter create failed')
   }
 }

@@ -21,7 +21,7 @@ interface Site {
   reporter: string
 }
 // @ts-ignore
-const outputDir = path.join(process.env.PWD, 'providers/cryptoscan-db')
+const outputDir = path.join(process.env.PWD, 'providers/cryptoscam-db')
 
 export async function writeSingleWebsiteToFile(website: string, data: Site) {
   await fs.writeFile(path.join(outputDir, `${website?.toLowerCase()}.json`), JSON.stringify(data), {

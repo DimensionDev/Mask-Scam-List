@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2019",
     "module": "commonjs",
-    "types": ["vitest/globals", "node"],
+    "types": ["node"],
     "resolveJsonModule": true,
     "noEmit": true,
     "noImplicitAny": true,
@@ -13,5 +13,5 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "include": ["src"]
+  "include": ["script"]
 }

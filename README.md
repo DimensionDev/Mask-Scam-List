@@ -9,7 +9,7 @@ The warning data from [CryptoScamDB](https://cryptoscamdb.org/).
 pnpm install
 ```
 
-## Generate Token List
+## Generate Scam List
 ```shell
 pnpm generate
 ```

@@ -1,1 +1,1 @@
-{"id":"25a64c","name":"restorewalletsio.link","url":"http://restorewalletsio.link","path":"/*","category":"Phishing","subcategory":"WebWallet","description":"Fake WebWallet phishing for secrets with POST /mailer/trustwallet.php","reporter":"CryptoScamDB"}
+{"id":"25a64c","name":"restorewalletsio.link","url":"https://restorewalletsio.link","category":"Phishing","subcategory":"WebWallet","path":"/*"}

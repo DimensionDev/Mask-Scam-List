@@ -1,1 +1,1 @@
-{"id":"a51d75","name":"application-send.info","url":"http://application-send.info","path":"/*","category":"Phishing","subcategory":"Idex","description":"Fake IDEX phishing for keys with POST /callback.php","reporter":"CryptoScamDB"}
+{"id":"a51d75","name":"application-send.info","url":"https://application-send.info","category":"Phishing","subcategory":"Idex","path":"/*"}

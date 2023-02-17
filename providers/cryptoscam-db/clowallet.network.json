@@ -1,1 +1,1 @@
-{"id":"9a6d48","name":"clowallet.network","url":"http://clowallet.network","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Fake Callisto wallet phishing for secrets with POST /cache/codp.php","reporter":"CryptoScamDB"}
+{"id":"9a6d48","name":"clowallet.network","url":"https://clowallet.network","category":"Phishing","subcategory":"Wallet","path":"/*"}

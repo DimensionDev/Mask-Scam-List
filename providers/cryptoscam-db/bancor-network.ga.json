@@ -1,1 +1,1 @@
-{"id":"b99e90","name":"bancor-network.ga","url":"http://bancor-network.ga","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake bancor site phishing for secrets with POST /bancor.php","reporter":"CryptoScamDB"}
+{"id":"b99e90","name":"bancor-network.ga","url":"https://bancor-network.ga","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

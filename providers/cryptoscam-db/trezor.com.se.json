@@ -1,1 +1,1 @@
-{"id":"916fec","name":"trezor.com.se","url":"http://trezor.com.se","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake Trezor site phishing for secrets with POST //api.telegram.org/bot975551611:AAGIwppN8dEwj9EDArbj1-q8ZJOrhcAILHg/sendMessage?text=<keys>&chat_id=1012841569 - https://twitter.com/Mutex_Lock/status/1301445856206483456","reporter":"CryptoScamDB"}
+{"id":"916fec","name":"trezor.com.se","url":"https://trezor.com.se","category":"Phishing","subcategory":"Trezor","path":"/*"}

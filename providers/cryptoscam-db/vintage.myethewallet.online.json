@@ -1,1 +1,1 @@
-{"id":"c1af44","name":"vintage.myethewallet.online","url":"http://vintage.myethewallet.online","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with GET ____key?key=xxx","reporter":"CryptoScamDB"}
+{"id":"c1af44","name":"vintage.myethewallet.online","url":"https://vintage.myethewallet.online","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"3d1263","name":"wallet.ethereum-advanced.com","url":"http://wallet.ethereum-advanced.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /decrypt.php","reporter":"CryptoScamDB"}
+{"id":"3d1263","name":"wallet.ethereum-advanced.com","url":"https://wallet.ethereum-advanced.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

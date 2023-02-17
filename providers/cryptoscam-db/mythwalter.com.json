@@ -1,1 +1,1 @@
-{"id":"444a7b","name":"mythwalter.com","url":"http://mythwalter.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet stealing secrets with POST /sending.php","reporter":"CryptoScamDB"}
+{"id":"444a7b","name":"mythwalter.com","url":"https://mythwalter.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

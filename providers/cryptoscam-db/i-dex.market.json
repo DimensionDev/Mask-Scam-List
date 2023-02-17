@@ -1,1 +1,1 @@
-{"id":"4cb986","name":"i-dex.market","url":"http://i-dex.market","path":"/*","category":"Phishing","subcategory":"Idex","description":"Fake Idex market phishing for keys with POST /log.php","reporter":"CryptoScamDB"}
+{"id":"4cb986","name":"i-dex.market","url":"https://i-dex.market","category":"Phishing","subcategory":"Idex","path":"/*"}

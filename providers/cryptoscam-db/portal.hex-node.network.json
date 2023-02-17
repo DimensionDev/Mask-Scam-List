@@ -1,1 +1,1 @@
-{"id":"89ecab","name":"portal.hex-node.network","url":"http://portal.hex-node.network","path":"/*","category":"Phishing","subcategory":"Hex","description":"Fake Hex phishing for secrets with POST /submit.php","reporter":"CryptoScamDB"}
+{"id":"89ecab","name":"portal.hex-node.network","url":"https://portal.hex-node.network","category":"Phishing","subcategory":"Hex","path":"/*"}

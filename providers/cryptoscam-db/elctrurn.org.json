@@ -1,1 +1,1 @@
-{"id":"3d633d","name":"elctrurn.org","url":"http://elctrurn.org","path":"/*","category":"Phishing","subcategory":"Electrum","description":"Fake Electrum site with potentially malicious downloads: https://www.virustotal.com/#/url/cc732ec6eb0b8450ae616bed50fb14c5ca95e5859dba97367a00e3a5e9a541c4/detection","reporter":"CryptoScamDB"}
+{"id":"3d633d","name":"elctrurn.org","url":"https://elctrurn.org","category":"Phishing","subcategory":"Electrum","path":"/*"}

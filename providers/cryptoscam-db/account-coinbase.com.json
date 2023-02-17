@@ -1,1 +1,1 @@
-{"id":"bb9a04","name":"account-coinbase.com","url":"http://account-coinbase.com","path":"/*","category":"Phishing","subcategory":"Coinbase","description":"Possible phishing coinbase users","reporter":"CryptoScamDB"}
+{"id":"bb9a04","name":"account-coinbase.com","url":"https://account-coinbase.com","category":"Phishing","subcategory":"Coinbase","path":"/*"}

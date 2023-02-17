@@ -1,1 +1,1 @@
-{"id":"98a162","name":"bitdegree-claims.bonus-client.com","url":"http://bitdegree-claims.bonus-client.com","path":"/*","category":"Phishing","subcategory":"Bitdegree","description":"Fake bitdegree phishing for logins with POST /bitdegree.php","reporter":"CryptoScamDB"}
+{"id":"98a162","name":"bitdegree-claims.bonus-client.com","url":"https://bitdegree-claims.bonus-client.com","category":"Phishing","subcategory":"Bitdegree","path":"/*"}

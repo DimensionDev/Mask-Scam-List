@@ -1,1 +1,1 @@
-{"id":"e36020","name":"ethnew.store","url":"http://ethnew.store","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /bot/bot.php","reporter":"CryptoScamDB"}
+{"id":"e36020","name":"ethnew.store","url":"https://ethnew.store","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

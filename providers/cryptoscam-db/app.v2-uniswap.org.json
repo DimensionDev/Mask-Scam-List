@@ -1,1 +1,1 @@
-{"id":"62135b","name":"app.v2-uniswap.org","url":"http://app.v2-uniswap.org","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Balance site phishing for secrets with POST /claim.php","reporter":"CryptoScamDB"}
+{"id":"62135b","name":"app.v2-uniswap.org","url":"https://app.v2-uniswap.org","category":"Phishing","subcategory":"Uniswap","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"26b75d","name":"ledgir.xyz","url":"http://ledgir.xyz","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site phishing for secrets with POST /save_data.php","reporter":"CryptoScamDB"}
+{"id":"26b75d","name":"ledgir.xyz","url":"https://ledgir.xyz","category":"Phishing","subcategory":"Ledger","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"35bffc","name":"tdex.market","url":"http://tdex.market","path":"/*","category":"Phishing","subcategory":"Idex","description":"Fake Idex site phishing for private keys - posting them to POST /pr.php","reporter":"CryptoScamDB"}
+{"id":"35bffc","name":"tdex.market","url":"https://tdex.market","category":"Phishing","subcategory":"Idex","path":"/*"}

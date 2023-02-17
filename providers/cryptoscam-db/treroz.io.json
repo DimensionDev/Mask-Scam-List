@@ -1,1 +1,1 @@
-{"id":"5ee922","name":"treroz.io","url":"http://treroz.io","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake trezor site phishing for secrets with POST /fadmin/index.php?steps=step1","reporter":"CryptoScamDB"}
+{"id":"5ee922","name":"treroz.io","url":"https://treroz.io","category":"Phishing","subcategory":"Trezor","path":"/*"}

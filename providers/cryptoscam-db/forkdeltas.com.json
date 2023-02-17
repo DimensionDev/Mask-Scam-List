@@ -1,1 +1,1 @@
-{"id":"a12fe4","name":"forkdeltas.com","url":"http://forkdeltas.com","path":"/*","category":"Phishing","subcategory":"ForkDelta","description":"Fake ForkDelta phishing for private keys. Posting them to /ajax.php","reporter":"CryptoScamDB"}
+{"id":"a12fe4","name":"forkdeltas.com","url":"https://forkdeltas.com","category":"Phishing","subcategory":"ForkDelta","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"08b547","name":"digitalasset-app.com","url":"http://digitalasset-app.com","path":"/*","category":"Phishing","subcategory":"Poloniex","description":"Fake Poloniex phishing for logins with POST /verification.php","reporter":"CryptoScamDB"}
+{"id":"08b547","name":"digitalasset-app.com","url":"https://digitalasset-app.com","category":"Phishing","subcategory":"Poloniex","path":"/*"}

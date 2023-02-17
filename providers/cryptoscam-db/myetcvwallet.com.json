@@ -1,1 +1,1 @@
-{"id":"bcb4c0","name":"myetcvwallet.com","url":"http://myetcvwallet.com","path":"/*","category":"Phishing","subcategory":"EthereumCV","description":"Phishing for keys with GET /create.php?p=xxxx and POST /create.php","reporter":"CryptoScamDB"}
+{"id":"bcb4c0","name":"myetcvwallet.com","url":"https://myetcvwallet.com","category":"Phishing","subcategory":"EthereumCV","path":"/*"}

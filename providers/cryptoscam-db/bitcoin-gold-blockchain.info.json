@@ -1,1 +1,1 @@
-{"id":"cf1f52","name":"bitcoin-gold-blockchain.info","url":"http://bitcoin-gold-blockchain.info","path":"/*","category":"Phishing","subcategory":"Blockchain","description":"Fake blockchain (bitcoin gold branded) phishing for keys with POST /php/send.php","reporter":"CryptoScamDB"}
+{"id":"cf1f52","name":"bitcoin-gold-blockchain.info","url":"https://bitcoin-gold-blockchain.info","category":"Phishing","subcategory":"Blockchain","path":"/*"}

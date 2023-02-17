@@ -1,1 +1,1 @@
-{"id":"473afd","name":"paxful-sl.com","url":"http://paxful-sl.com","path":"/*","category":"Phishing","subcategory":"Paxful","description":"Fake Paxful phishing for logins with POST /verify.php","reporter":"CryptoScamDB"}
+{"id":"473afd","name":"paxful-sl.com","url":"https://paxful-sl.com","category":"Phishing","subcategory":"Paxful","path":"/*"}

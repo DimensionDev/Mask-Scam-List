@@ -1,1 +1,1 @@
-{"id":"07b569","name":"walletconnectsupport.live","url":"http://walletconnectsupport.live","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /connect/import.php","reporter":"CryptoScamDB"}
+{"id":"07b569","name":"walletconnectsupport.live","url":"https://walletconnectsupport.live","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

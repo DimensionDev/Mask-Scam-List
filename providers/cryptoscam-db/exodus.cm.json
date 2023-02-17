@@ -1,1 +1,1 @@
-{"id":"97c222","name":"exodus.cm","url":"http://exodus.cm","path":"/*","category":"Phishing","subcategory":"Exodus","description":"Fake Exodus site phishing for secrets with POST /save.php","reporter":"CryptoScamDB"}
+{"id":"97c222","name":"exodus.cm","url":"https://exodus.cm","category":"Phishing","subcategory":"Exodus","path":"/*"}

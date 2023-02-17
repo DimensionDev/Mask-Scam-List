@@ -1,1 +1,1 @@
-{"id":"b96f86","name":"everex.cash.events-erc-20.com","url":"http://everex.cash.events-erc-20.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for secrets with POST /claim.php","reporter":"CryptoScamDB"}
+{"id":"b96f86","name":"everex.cash.events-erc-20.com","url":"https://everex.cash.events-erc-20.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

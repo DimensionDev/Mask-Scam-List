@@ -1,1 +1,1 @@
-{"id":"de8b18","name":"erc-20-token.com","url":"http://erc-20-token.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MEW phishing for keys with POST /error.php","reporter":"CryptoScamDB"}
+{"id":"de8b18","name":"erc-20-token.com","url":"https://erc-20-token.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

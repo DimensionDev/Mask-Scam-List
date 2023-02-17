@@ -1,1 +1,1 @@
-{"id":"ffde2a","name":"pencakeswap.finance","url":"http://pencakeswap.finance","path":"/*","category":"Phishing","subcategory":"PancakeSwap","description":"Fake PancakeSwap site phishing for secrets with POST /googleanalytics.php","reporter":"CryptoScamDB"}
+{"id":"ffde2a","name":"pencakeswap.finance","url":"https://pencakeswap.finance","category":"Phishing","subcategory":"PancakeSwap","path":"/*"}

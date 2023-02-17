@@ -1,1 +1,1 @@
-{"id":"84d8b7","name":"stellar.org.im","url":"http://stellar.org.im","path":"/*","category":"Phishing","subcategory":"Stellar","description":"Fake Stellar site phishing for keys with POST /post.php","reporter":"CryptoScamDB"}
+{"id":"84d8b7","name":"stellar.org.im","url":"https://stellar.org.im","category":"Phishing","subcategory":"Stellar","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"2523c2","name":"muetherwallet.co","url":"http://muetherwallet.co","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /sending.php","reporter":"CryptoScamDB"}
+{"id":"2523c2","name":"muetherwallet.co","url":"https://muetherwallet.co","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

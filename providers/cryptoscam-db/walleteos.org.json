@@ -1,1 +1,1 @@
-{"id":"aecb2d","name":"walleteos.org","url":"https://walleteos.org","path":"/*","category":"Phishing","subcategory":"WebWallet","description":"Fake web wallet phishing for keys (sending to POST test.php)","reporter":"CryptoScamDB"}
+{"id":"aecb2d","name":"walleteos.org","url":"https://walleteos.org","category":"Phishing","subcategory":"WebWallet","path":"/*"}

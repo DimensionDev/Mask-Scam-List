@@ -1,1 +1,1 @@
-{"id":"f67c01","name":"claim-stellar.info","url":"http://claim-stellar.info","path":"/*","category":"Malware","subcategory":"Stellar","description":"Fake giveaway hosting malware - https://www.virustotal.com/gui/url-analysis/u-7f441dff58d0a9d2a6a8a5d79ac80cff2fb8fd1016c8fe93402015cee4d9b05c-1575334482/detection & https://app.any.run/tasks/06d8e351-a0f9-48c6-a208-329c24ae1972","reporter":"CryptoScamDB"}
+{"id":"f67c01","name":"claim-stellar.info","url":"https://claim-stellar.info","category":"Malware","subcategory":"Stellar","path":"/*"}

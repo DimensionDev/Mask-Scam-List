@@ -1,1 +1,1 @@
-{"id":"c7d1e3","name":"ethaget.com","url":"http://ethaget.com","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Fake MyEtherWallet/Wallet phishing for secrets with POST /savekey.php","reporter":"CryptoScamDB"}
+{"id":"c7d1e3","name":"ethaget.com","url":"https://ethaget.com","category":"Phishing","subcategory":"Wallet","path":"/*"}

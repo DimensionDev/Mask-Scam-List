@@ -1,1 +1,1 @@
-{"id":"69975f","name":"ftx-com-exchange-cryptocurrency.000webhostapp.com","url":"http://ftx-com-exchange-cryptocurrency.000webhostapp.com","path":"/*","category":"Phishing","subcategory":"Ftx","description":"Fake FTX exchange phishing for logins with POST /app/claim.php","reporter":"CryptoScamDB"}
+{"id":"69975f","name":"ftx-com-exchange-cryptocurrency.000webhostapp.com","url":"https://ftx-com-exchange-cryptocurrency.000webhostapp.com","category":"Phishing","subcategory":"Ftx","path":"/*"}

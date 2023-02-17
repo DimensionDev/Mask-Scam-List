@@ -1,1 +1,1 @@
-{"id":"22a31a","name":"ethereum2.online","url":"http://ethereum2.online","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Phishing for secrets with POST /send_private_key.php","reporter":"CryptoScamDB"}
+{"id":"22a31a","name":"ethereum2.online","url":"https://ethereum2.online","category":"Phishing","subcategory":"Wallet","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"aecd6b","name":"www-kraken-logins-pe.com","url":"http://www-kraken-logins-pe.com","path":"/*","category":"Phishing","subcategory":"Kraken","description":"Fake Kraken site phishing for logins with POST /indexSend.php","reporter":"CryptoScamDB"}
+{"id":"aecd6b","name":"www-kraken-logins-pe.com","url":"https://www-kraken-logins-pe.com","category":"Phishing","subcategory":"Kraken","path":"/*"}

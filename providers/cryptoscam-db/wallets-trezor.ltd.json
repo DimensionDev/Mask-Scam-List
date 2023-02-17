@@ -1,1 +1,1 @@
-{"id":"29edc1","name":"wallets-trezor.ltd","url":"http://wallets-trezor.ltd","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake Trezor site phishing for seeds phrases with POST /mail.php","reporter":"CryptoScamDB"}
+{"id":"29edc1","name":"wallets-trezor.ltd","url":"https://wallets-trezor.ltd","category":"Phishing","subcategory":"Trezor","path":"/*"}

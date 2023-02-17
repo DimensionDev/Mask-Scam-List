@@ -1,1 +1,1 @@
-{"id":"40be84","name":"tokensico.online","url":"http://tokensico.online","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Fake Ethereum wallet phishing for secrets with POST /send_private_key.php - suspected address: 0x48a17df119f20d50b829f15e43e0e59a658c7476","reporter":"CryptoScamDB"}
+{"id":"40be84","name":"tokensico.online","url":"https://tokensico.online","category":"Phishing","subcategory":"Wallet","path":"/*"}

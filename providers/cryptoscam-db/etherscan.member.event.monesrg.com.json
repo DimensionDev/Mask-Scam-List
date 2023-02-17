@@ -1,1 +1,1 @@
-{"id":"b484ac","name":"etherscan.member.event.monesrg.com","url":"http://etherscan.member.event.monesrg.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for secrets with POST /claim.php","reporter":"CryptoScamDB"}
+{"id":"b484ac","name":"etherscan.member.event.monesrg.com","url":"https://etherscan.member.event.monesrg.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

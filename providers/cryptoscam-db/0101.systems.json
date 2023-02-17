@@ -1,1 +1,1 @@
-{"id":"56bf18","name":"0101.systems","url":"http://0101.systems","path":"/*","category":"Phishing","subcategory":"Electrum","description":"Fake Electrum wallet phishing for secrets with POST /api.php","reporter":"CryptoScamDB"}
+{"id":"56bf18","name":"0101.systems","url":"https://0101.systems","category":"Phishing","subcategory":"Electrum","path":"/*"}

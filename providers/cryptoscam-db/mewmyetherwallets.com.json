@@ -1,1 +1,1 @@
-{"id":"968c82","name":"mewmyetherwallets.com","url":"http://mewmyetherwallets.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for secrets with POST /log.php?access-my-wallet","reporter":"CryptoScamDB"}
+{"id":"968c82","name":"mewmyetherwallets.com","url":"https://mewmyetherwallets.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"46d94c","name":"hydrowallet.io","url":"http://hydrowallet.io","path":"/*","category":"Phishing","subcategory":"Hydrogen","description":"Fake Wallet phishing for keys with POST /api/v1.php - reported address: 0x54d2fb4f6EF43bc3B0Ec0EfE62400C2603ed136F","reporter":"CryptoScamDB"}
+{"id":"46d94c","name":"hydrowallet.io","url":"https://hydrowallet.io","category":"Phishing","subcategory":"Hydro","path":"/*"}

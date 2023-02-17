@@ -1,1 +1,1 @@
-{"id":"9895d7","name":"cryptobridge.su","url":"http://cryptobridge.su","path":"/*","category":"Phishing","subcategory":"CryptoBridge","description":"Fake CryptoBridge exchange phishing for details with POST /login/login.php","reporter":"CryptoScamDB"}
+{"id":"9895d7","name":"cryptobridge.su","url":"https://cryptobridge.su","category":"Phishing","subcategory":"CryptoBridge","path":"/*"}

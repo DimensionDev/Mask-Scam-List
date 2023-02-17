@@ -1,1 +1,1 @@
-{"id":"8a52be","name":"walletsconnections.com","url":"http://walletsconnections.com","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /actions.php","reporter":"CryptoScamDB"}
+{"id":"8a52be","name":"walletsconnections.com","url":"https://walletsconnections.com","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"bf4ec3","name":"wallet.atomicweb.network","url":"http://wallet.atomicweb.network","path":"/*","category":"Phishing","subcategory":"AtomicWallet","description":"Fake Atomic Wallet site phishing for secrets with POST /mnemonic.php","reporter":"CryptoScamDB"}
+{"id":"bf4ec3","name":"wallet.atomicweb.network","url":"https://wallet.atomicweb.network","category":"Phishing","subcategory":"Atomic","path":"/*"}

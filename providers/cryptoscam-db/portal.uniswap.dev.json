@@ -1,1 +1,1 @@
-{"id":"090389","name":"portal.uniswap.dev","url":"http://portal.uniswap.dev","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Uniswap phishing for secrets with POST /submit.php","reporter":"CryptoScamDB"}
+{"id":"090389","name":"portal.uniswap.dev","url":"https://portal.uniswap.dev","category":"Phishing","subcategory":"Uniswap","path":"/*"}

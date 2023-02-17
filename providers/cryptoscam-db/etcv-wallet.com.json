@@ -1,1 +1,1 @@
-{"id":"04be74","name":"etcv-wallet.com","url":"http://etcv-wallet.com","path":"/*","category":"Phishing","subcategory":"EthereumCV","description":"Fake ETCV wallet phishing for keys with POST /api (base64 encoded) - Suspected address: 0x8a16589539096694a829d68ef8db4a95b628deef","reporter":"CryptoScamDB"}
+{"id":"04be74","name":"etcv-wallet.com","url":"https://etcv-wallet.com","category":"Phishing","subcategory":"EthereumCV","path":"/*"}

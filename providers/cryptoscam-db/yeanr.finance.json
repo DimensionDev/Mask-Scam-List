@@ -1,1 +1,1 @@
-{"id":"93ec89","name":"yeanr.finance","url":"http://yeanr.finance","path":"/*","category":"Phishing","subcategory":"Yearn","description":"Fake Yearn finance site phishing for secrets with POST /panel1488/action.php?name=MetaMask&phrases=<secret>","reporter":"CryptoScamDB"}
+{"id":"93ec89","name":"yeanr.finance","url":"https://yeanr.finance","category":"Phishing","subcategory":"Yearn","path":"/*"}

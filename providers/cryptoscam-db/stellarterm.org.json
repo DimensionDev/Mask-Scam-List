@@ -1,1 +1,1 @@
-{"id":"cbb4a9","name":"stellarterm.org","url":"http://stellarterm.org","path":"/*","category":"Phishing","subcategory":"Stellar","description":"Fake Stellar webwallet stealing keys with POST /account/lumensxlm.php","reporter":"CryptoScamDB"}
+{"id":"cbb4a9","name":"stellarterm.org","url":"https://stellarterm.org","category":"Phishing","subcategory":"Stellar","path":"/*"}

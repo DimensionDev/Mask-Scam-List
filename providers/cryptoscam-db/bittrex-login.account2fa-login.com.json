@@ -1,1 +1,1 @@
-{"id":"cea4cc","name":"bittrex-login.account2fa-login.com","url":"http://bittrex-login.account2fa-login.com","path":"/*","category":"Phishing","subcategory":"Bittrex","description":"Fake Bittrex phishing for logins with POST /verification.php","reporter":"CryptoScamDB"}
+{"id":"cea4cc","name":"bittrex-login.account2fa-login.com","url":"https://bittrex-login.account2fa-login.com","category":"Phishing","subcategory":"Bittrex","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"5a7ac0","name":"stellar.org.ng","url":"http://stellar.org.ng","path":"/*","category":"Phishing","subcategory":"Stellar","description":"Fake Stellar site phishing for keys with POST /post.php (and linking users to accountviewer.stellar.org.bi)","reporter":"CryptoScamDB"}
+{"id":"5a7ac0","name":"stellar.org.ng","url":"https://stellar.org.ng","category":"Phishing","subcategory":"Stellar","path":"/*"}

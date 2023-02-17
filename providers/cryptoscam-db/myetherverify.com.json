@@ -1,1 +1,1 @@
-{"id":"f7f655","name":"myetherverify.com","url":"http://myetherverify.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /access-my-wallet/email.php","reporter":"CryptoScamDB"}
+{"id":"f7f655","name":"myetherverify.com","url":"https://myetherverify.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"d7ccd1","name":"view-wallel.info","url":"https://view-wallel.info","path":"/*","category":"Phishing","subcategory":"DDEX","description":"Fake Ddex stealing keys with POST /callback.php","reporter":"CryptoScamDB"}
+{"id":"d7ccd1","name":"view-wallel.info","url":"https://view-wallel.info","category":"Phishing","subcategory":"Ddex","path":"/*"}

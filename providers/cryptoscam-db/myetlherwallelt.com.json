@@ -1,1 +1,1 @@
-{"id":"1e8e11","name":"myetlherwallelt.com","url":"http://myetlherwallelt.com","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance phishing for logins with POST /send.php (prob mixed webserver config or loading default vhost)","reporter":"CryptoScamDB"}
+{"id":"1e8e11","name":"myetlherwallelt.com","url":"https://myetlherwallelt.com","category":"Phishing","subcategory":"Binance","path":"/*"}

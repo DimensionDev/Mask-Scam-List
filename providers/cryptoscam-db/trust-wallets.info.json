@@ -1,1 +1,1 @@
-{"id":"15345f","name":"trust-wallets.info","url":"http://trust-wallets.info","path":"/*","category":"Phishing","subcategory":"TrustWallet","description":"Fake TrustWallet site phishing for secrets with POST /action/privatekey","reporter":"CryptoScamDB"}
+{"id":"15345f","name":"trust-wallets.info","url":"https://trust-wallets.info","category":"Phishing","subcategory":"TrustWallet","path":"/*"}

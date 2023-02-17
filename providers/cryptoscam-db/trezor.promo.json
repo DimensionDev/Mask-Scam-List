@@ -1,1 +1,1 @@
-{"id":"efe2ce","name":"trezor.promo","url":"http://trezor.promo","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake Trezor site phishing for secrets (broken kit, redirecting to /null)","reporter":"CryptoScamDB"}
+{"id":"efe2ce","name":"trezor.promo","url":"https://trezor.promo","category":"Phishing","subcategory":"Trezor","path":"/*"}

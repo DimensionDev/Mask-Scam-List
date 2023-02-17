@@ -1,1 +1,1 @@
-{"id":"92d4fc","name":"reether.store","url":"http://reether.store","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Fake Ethereum wallet phishing for secrets with POST /send_private_key.php and POST /send_mnemonic.php","reporter":"CryptoScamDB"}
+{"id":"92d4fc","name":"reether.store","url":"https://reether.store","category":"Phishing","subcategory":"Wallet","path":"/*"}

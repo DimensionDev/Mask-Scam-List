@@ -1,1 +1,1 @@
-{"id":"0de84d","name":"trustapp.ltd","url":"http://trustapp.ltd","path":"/*","category":"Phishing","subcategory":"Trust","description":"Fake Trust site phishing for secrets with POST /login/process_login.php (backend of com.trust.manager.app)","reporter":"CryptoScamDB"}
+{"id":"0de84d","name":"trustapp.ltd","url":"https://trustapp.ltd","category":"Phishing","subcategory":"Trust","path":"/*"}

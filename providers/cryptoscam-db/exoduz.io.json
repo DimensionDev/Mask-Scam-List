@@ -1,1 +1,1 @@
-{"id":"f246a6","name":"exoduz.io","url":"http://exoduz.io","path":"/*","category":"Phishing","subcategory":"Exodus","description":"Fake Exodus site phishing for secrets with POST /save.php","reporter":"CryptoScamDB"}
+{"id":"f246a6","name":"exoduz.io","url":"https://exoduz.io","category":"Phishing","subcategory":"Exodus","path":"/*"}

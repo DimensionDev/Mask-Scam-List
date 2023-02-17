@@ -1,1 +1,1 @@
-{"id":"22da47","name":"bttfinex.ru","url":"http://bttfinex.ru","path":"/*","category":"Phishing","subcategory":"Bitfinex","description":"Fake Bitfinex phishing for logins with POST /login.php","reporter":"CryptoScamDB"}
+{"id":"22da47","name":"bttfinex.ru","url":"https://bttfinex.ru","category":"Phishing","subcategory":"Bitfinex","path":"/*"}

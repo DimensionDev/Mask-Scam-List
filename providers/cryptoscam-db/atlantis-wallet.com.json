@@ -1,1 +1,1 @@
-{"id":"7b211c","name":"atlantis-wallet.com","url":"http://atlantis-wallet.com","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Fake Ethereum wallet phishing for secrets with POST /atlantis_node.php","reporter":"CryptoScamDB"}
+{"id":"7b211c","name":"atlantis-wallet.com","url":"https://atlantis-wallet.com","category":"Phishing","subcategory":"Wallet","path":"/*"}

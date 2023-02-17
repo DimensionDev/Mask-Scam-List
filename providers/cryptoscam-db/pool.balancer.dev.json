@@ -1,1 +1,1 @@
-{"id":"8badc2","name":"pool.balancer.dev","url":"http://pool.balancer.dev","path":"/*","category":"Phishing","subcategory":"Balancer","description":"Fake Balancer site phishing for private keys with a fake MetaMask popup - POST //vooom-6652.restdb.io/rest/bala (apikey: 5ef928e3a529a1752c476ac1)","reporter":"CryptoScamDB"}
+{"id":"8badc2","name":"pool.balancer.dev","url":"https://pool.balancer.dev","category":"Phishing","subcategory":"Balancer","path":"/*"}

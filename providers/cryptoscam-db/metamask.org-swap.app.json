@@ -1,1 +1,1 @@
-{"id":"b717d0","name":"metamask.org-swap.app","url":"http://metamask.org-swap.app","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with POST /RM2.php","reporter":"CryptoScamDB"}
+{"id":"b717d0","name":"metamask.org-swap.app","url":"https://metamask.org-swap.app","category":"Phishing","subcategory":"MetaMask","path":"/*"}

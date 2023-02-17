@@ -1,1 +1,1 @@
-{"id":"529ad2","name":"alphafinance.biz","url":"http://alphafinance.biz","path":"/*","category":"Phishing","subcategory":"Alpha","description":"Fake AlphaFinance site hosting malware (sha256sum: 058540de9f0908a0d254332da67a4544884795588dac009f9ed14c9fa76df3ac)","reporter":"CryptoScamDB"}
+{"id":"529ad2","name":"alphafinance.biz","url":"https://alphafinance.biz","category":"Phishing","subcategory":"Alpha","path":"/*"}

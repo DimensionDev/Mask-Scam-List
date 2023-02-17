@@ -1,1 +1,1 @@
-{"id":"bd6b22","name":"dex.binance.org.nz","url":"http://dex.binance.org.nz","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance DEX phishing for secrets with POST /log.php","reporter":"CryptoScamDB"}
+{"id":"bd6b22","name":"dex.binance.org.nz","url":"https://dex.binance.org.nz","category":"Phishing","subcategory":"Binance","path":"/*"}

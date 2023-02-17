@@ -1,1 +1,1 @@
-{"id":"e5cecf","name":"app.uniswap.liquidity-holder.com","url":"http://app.uniswap.liquidity-holder.com","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Uniswap site phishing for secrets with POST /claim.php","reporter":"CryptoScamDB"}
+{"id":"e5cecf","name":"app.uniswap.liquidity-holder.com","url":"https://app.uniswap.liquidity-holder.com","category":"Phishing","subcategory":"Uniswap","path":"/*"}

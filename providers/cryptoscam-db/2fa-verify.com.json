@@ -1,1 +1,1 @@
-{"id":"91f92a","name":"2fa-verify.com","url":"http://2fa-verify.com","path":"/*","category":"Phishing","subcategory":"Coinbase","description":"Fake Coinbase site phishing for logins with POST /process.php","reporter":"CryptoScamDB"}
+{"id":"91f92a","name":"2fa-verify.com","url":"https://2fa-verify.com","category":"Phishing","subcategory":"Coinbase","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"7c3a82","name":"refereum.com.erc-20.claims","url":"http://refereum.com.erc-20.claims","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for secrets with POST /error.claim.php","reporter":"CryptoScamDB"}
+{"id":"7c3a82","name":"refereum.com.erc-20.claims","url":"https://refereum.com.erc-20.claims","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

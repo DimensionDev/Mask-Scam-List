@@ -1,1 +1,1 @@
-{"id":"7e89ba","name":"atomicwallet.website","url":"http://atomicwallet.website","path":"/*","category":"Phishing","subcategory":"AtomicWallet","description":"Fake Atomic wallet phishing for secrets with POST /unlock/mnemonic.php (links users to howtotechnaija.com via QR code)","reporter":"CryptoScamDB"}
+{"id":"7e89ba","name":"atomicwallet.website","url":"https://atomicwallet.website","category":"Phishing","subcategory":"Atomic","path":"/*"}

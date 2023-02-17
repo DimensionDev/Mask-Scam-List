@@ -1,1 +1,1 @@
-{"id":"003d3f","name":"eosauthority.services","url":"https://eosauthority.services","path":"/*","category":"Phishing","subcategory":"EOS","description":"Fake EOS site phishing for private keys via POST store.php","reporter":"CryptoScamDB"}
+{"id":"003d3f","name":"eosauthority.services","url":"https://eosauthority.services","category":"Phishing","subcategory":"EOS","path":"/*"}

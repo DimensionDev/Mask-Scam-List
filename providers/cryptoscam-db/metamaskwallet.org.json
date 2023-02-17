@@ -1,1 +1,1 @@
-{"id":"3f9aea","name":"metamaskwallet.org","url":"http://metamaskwallet.org","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with POST /success.php","reporter":"CryptoScamDB"}
+{"id":"3f9aea","name":"metamaskwallet.org","url":"https://metamaskwallet.org","category":"Phishing","subcategory":"MetaMask","path":"/*"}

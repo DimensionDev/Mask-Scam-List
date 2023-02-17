@@ -1,1 +1,1 @@
-{"id":"a4a74a","name":"accountviewer.stellar.org.so","url":"http://accountviewer.stellar.org.so","path":"/*","category":"Phishing","subcategory":"Stellar","description":"Fake Stellar account viewer phishing for logins with POST /post.php","reporter":"CryptoScamDB"}
+{"id":"a4a74a","name":"accountviewer.stellar.org.so","url":"https://accountviewer.stellar.org.so","category":"Phishing","subcategory":"Stellar","path":"/*"}

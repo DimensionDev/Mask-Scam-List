@@ -1,1 +1,1 @@
-{"id":"b2bf3c","name":"walletsync.site","url":"http://walletsync.site","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /import/actions.php","reporter":"CryptoScamDB"}
+{"id":"b2bf3c","name":"walletsync.site","url":"https://walletsync.site","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

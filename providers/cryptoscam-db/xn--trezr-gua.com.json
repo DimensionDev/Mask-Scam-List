@@ -1,1 +1,1 @@
-{"id":"69de7f","name":"xn--trezr-gua.com","url":"http://xn--trezr-gua.com","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake Trezor site phishing for secrets with POST /ifu/upload.php","reporter":"CryptoScamDB"}
+{"id":"69de7f","name":"xn--trezr-gua.com","url":"https://xn--trezr-gua.com","category":"Phishing","subcategory":"Trezor","path":"/*"}

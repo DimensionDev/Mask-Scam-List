@@ -1,1 +1,1 @@
-{"id":"494e84","name":"deltafork.app","url":"http://deltafork.app","path":"/*","category":"Phishing","subcategory":"ForkDelta","description":"Fake ForkDelta phishing for keys with POST /decrypt.php","reporter":"CryptoScamDB"}
+{"id":"494e84","name":"deltafork.app","url":"https://deltafork.app","category":"Phishing","subcategory":"ForkDelta","path":"/*"}

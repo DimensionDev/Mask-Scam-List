@@ -1,1 +1,1 @@
-{"id":"229ea3","name":"thesmartwalletrestore.live","url":"http://thesmartwalletrestore.live","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /action/phrase","reporter":"CryptoScamDB"}
+{"id":"229ea3","name":"thesmartwalletrestore.live","url":"https://thesmartwalletrestore.live","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

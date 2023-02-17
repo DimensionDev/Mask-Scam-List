@@ -1,1 +1,1 @@
-{"id":"c3b5ea","name":"paxful.log-iin.com","url":"http://paxful.log-iin.com","path":"/*","category":"Phishing","subcategory":"Paxful","description":"Fake Paxful phishing for logins with POST /temp.php","reporter":"CryptoScamDB"}
+{"id":"c3b5ea","name":"paxful.log-iin.com","url":"https://paxful.log-iin.com","category":"Phishing","subcategory":"Paxful","path":"/*"}

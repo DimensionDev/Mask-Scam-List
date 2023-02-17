@@ -1,1 +1,1 @@
-{"id":"d59856","name":"bytetrade.io","url":"http://bytetrade.io","path":"/*","category":"Phishing","subcategory":"Exchange","description":"Fake DEX phishing for secrets with POST //p4.bytetrade.com/bittrade/v1/me?cmd=getUserInviter&userid=my_private_key","reporter":"CryptoScamDB"}
+{"id":"d59856","name":"bytetrade.io","url":"https://bytetrade.io","category":"Phishing","subcategory":"Exchange","path":"/*"}

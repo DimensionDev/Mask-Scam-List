@@ -1,1 +1,1 @@
-{"id":"eaf6f1","name":"accountviewer.stellar.org.in","url":"http://accountviewer.stellar.org.in","path":"/*","category":"Phishing","subcategory":"Stellar","description":"Fake Stellar wallet phishing for secrets with POST /post.php","reporter":"CryptoScamDB"}
+{"id":"eaf6f1","name":"accountviewer.stellar.org.in","url":"https://accountviewer.stellar.org.in","category":"Phishing","subcategory":"Stellar","path":"/*"}

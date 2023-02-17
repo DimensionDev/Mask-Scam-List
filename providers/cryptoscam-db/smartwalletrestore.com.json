@@ -1,1 +1,1 @@
-{"id":"70f097","name":"smartwalletrestore.com","url":"http://smartwalletrestore.com","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /inc/privatekey.php","reporter":"CryptoScamDB"}
+{"id":"70f097","name":"smartwalletrestore.com","url":"https://smartwalletrestore.com","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

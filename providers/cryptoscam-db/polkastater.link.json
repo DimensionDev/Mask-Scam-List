@@ -1,1 +1,1 @@
-{"id":"f855a4","name":"polkastater.link","url":"http://polkastater.link","path":"/*","category":"Phishing","subcategory":"Polkastarter","description":"Fake Polkastar website phishing for secrets with POST /wp-json/metform/v1/entries/insert/18","reporter":"CryptoScamDB"}
+{"id":"f855a4","name":"polkastater.link","url":"https://polkastater.link","category":"Phishing","subcategory":"Polkastar","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"2f2c2d","name":"login-binance.net","url":"https://login-binance.net","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance phishing for logins with POST /_loginSend.php","reporter":"CryptoScamDB"}
+{"id":"2f2c2d","name":"login-binance.net","url":"https://login-binance.net","category":"Phishing","subcategory":"Binance","path":"/*"}

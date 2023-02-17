@@ -1,1 +1,1 @@
-{"id":"64c7c1","name":"wallet-validation.online","url":"http://wallet-validation.online","path":"/*","category":"Phishing","subcategory":"WebWallet","description":"Fake WebWallet phishing for secrets with POST /indexform.php","reporter":"CryptoScamDB"}
+{"id":"64c7c1","name":"wallet-validation.online","url":"https://wallet-validation.online","category":"Phishing","subcategory":"WebWallet","path":"/*"}

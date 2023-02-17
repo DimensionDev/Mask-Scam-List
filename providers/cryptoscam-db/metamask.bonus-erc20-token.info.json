@@ -1,1 +1,1 @@
-{"id":"4ccd64","name":"metamask.bonus-erc20-token.info","url":"http://metamask.bonus-erc20-token.info","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with POST /error.php?access-my-wallet","reporter":"CryptoScamDB"}
+{"id":"4ccd64","name":"metamask.bonus-erc20-token.info","url":"https://metamask.bonus-erc20-token.info","category":"Phishing","subcategory":"MetaMask","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"1a903a","name":"trezor-io.com","url":"http://trezor-io.com","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Uniswap site phishing for secrets with POST /submit.php (redir from exshengee.com)","reporter":"CryptoScamDB"}
+{"id":"1a903a","name":"trezor-io.com","url":"https://trezor-io.com","category":"Phishing","subcategory":"Uniswap","path":"/*"}

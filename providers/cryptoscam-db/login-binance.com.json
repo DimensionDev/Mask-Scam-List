@@ -1,1 +1,1 @@
-{"id":"d8aaaf","name":"login-binance.com","url":"https://login-binance.com","path":"/*","category":"Phishing","subcategory":"Binance","description":"Suspicious binance domain targetting login","reporter":"CryptoScamDB"}
+{"id":"d8aaaf","name":"login-binance.com","url":"https://login-binance.com","category":"Phishing","subcategory":"Binance","path":"/*"}

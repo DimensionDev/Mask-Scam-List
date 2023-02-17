@@ -1,1 +1,1 @@
-{"id":"766f44","name":"yearm.finance","url":"http://yearm.finance","path":"/*","category":"Phishing","subcategory":"Yearn","description":"Fake Yearn finance app phishing for keys with POST /send_phrase_metaMask.php","reporter":"CryptoScamDB"}
+{"id":"766f44","name":"yearm.finance","url":"https://yearm.finance","category":"Phishing","subcategory":"Yearn","path":"/*"}

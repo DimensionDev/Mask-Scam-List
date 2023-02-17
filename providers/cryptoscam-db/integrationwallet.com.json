@@ -1,1 +1,1 @@
-{"id":"6c2151","name":"integrationwallet.com","url":"http://integrationwallet.com","path":"/*","category":"Phishing","subcategory":"WebWallet","description":"Fake Wallet phishing for secrets with POST //cryptoo-api.herokuapp.com/api/v1/validate","reporter":"CryptoScamDB"}
+{"id":"6c2151","name":"integrationwallet.com","url":"https://integrationwallet.com","category":"Phishing","subcategory":"WebWallet","path":"/*"}

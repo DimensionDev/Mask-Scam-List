@@ -1,1 +1,1 @@
-{"id":"31997f","name":"metabrowser.org","url":"http://metabrowser.org","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake Metamask phishing for secrets with POST /check.php","reporter":"CryptoScamDB"}
+{"id":"31997f","name":"metabrowser.org","url":"https://metabrowser.org","category":"Phishing","subcategory":"MetaMask","path":"/*"}

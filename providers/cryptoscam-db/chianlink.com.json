@@ -1,1 +1,1 @@
-{"id":"22237d","name":"chianlink.com","url":"http://chianlink.com","path":"/*","category":"Phishing","subcategory":"Chainlink","description":"Fake chainlink staking app phishing for secrets with POST wallet.chianlink.com/login.php?privateKey=xxx","reporter":"CryptoScamDB"}
+{"id":"22237d","name":"chianlink.com","url":"https://chianlink.com","category":"Phishing","subcategory":"Chainlink","path":"/*"}

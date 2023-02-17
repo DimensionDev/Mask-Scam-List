@@ -1,1 +1,1 @@
-{"id":"93cac3","name":"ledger-live.co","url":"http://ledger-live.co","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site phishing for secrets with POST /save.php","reporter":"CryptoScamDB"}
+{"id":"93cac3","name":"ledger-live.co","url":"https://ledger-live.co","category":"Phishing","subcategory":"Ledger","path":"/*"}

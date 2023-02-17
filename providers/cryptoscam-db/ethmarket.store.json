@@ -1,1 +1,1 @@
-{"id":"d65376","name":"ethmarket.store","url":"http://ethmarket.store","path":"/*","category":"Phishing","subcategory":"Wallet","description":"Fake wallet phishing for keys with POST /send_private_key.php","reporter":"CryptoScamDB"}
+{"id":"d65376","name":"ethmarket.store","url":"https://ethmarket.store","category":"Phishing","subcategory":"Wallet","path":"/*"}

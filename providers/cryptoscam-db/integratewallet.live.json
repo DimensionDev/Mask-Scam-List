@@ -1,1 +1,1 @@
-{"id":"8d9da5","name":"integratewallet.live","url":"http://integratewallet.live","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST //cryptooo-api.herokuapp.com/api/v1/validateOptions","reporter":"CryptoScamDB"}
+{"id":"8d9da5","name":"integratewallet.live","url":"https://integratewallet.live","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

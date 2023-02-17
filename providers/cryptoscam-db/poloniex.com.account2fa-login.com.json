@@ -1,1 +1,1 @@
-{"id":"d4d02a","name":"poloniex.com.account2fa-login.com","url":"http://poloniex.com.account2fa-login.com","path":"/*","category":"Phishing","subcategory":"Bittrex","description":"Fake Bittrex phishing for logins with POST /verification.php","reporter":"CryptoScamDB"}
+{"id":"d4d02a","name":"poloniex.com.account2fa-login.com","url":"https://poloniex.com.account2fa-login.com","category":"Phishing","subcategory":"Bittrex","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"51b305","name":"maskmeta.xyz","url":"http://maskmeta.xyz","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with POST /success.php","reporter":"CryptoScamDB"}
+{"id":"51b305","name":"maskmeta.xyz","url":"https://maskmeta.xyz","category":"Phishing","subcategory":"MetaMask","path":"/*"}

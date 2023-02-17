@@ -1,1 +1,1 @@
-{"id":"e26eb1","name":"forkdelta.io","url":"https://forkdelta.io","path":"/*","category":"Phishing","subcategory":"ForkDelta","description":"Fake ForkDelta site - see https://github.com/MetaMask/eth-phishing-detect/issues/1004","reporter":"CryptoScamDB"}
+{"id":"e26eb1","name":"forkdelta.io","url":"https://forkdelta.io","category":"Phishing","subcategory":"ForkDelta","path":"/*"}

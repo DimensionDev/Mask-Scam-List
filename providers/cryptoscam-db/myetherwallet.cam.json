@@ -1,1 +1,1 @@
-{"id":"fdbdd7","name":"myetherwallet.cam","url":"http://myetherwallet.cam","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"redirecting to real site but that happened before","reporter":"CryptoScamDB"}
+{"id":"fdbdd7","name":"myetherwallet.cam","url":"https://myetherwallet.cam","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

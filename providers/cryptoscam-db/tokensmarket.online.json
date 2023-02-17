@@ -1,1 +1,1 @@
-{"id":"f1b7ac","name":"tokensmarket.online","url":"http://tokensmarket.online","path":"/*","category":"Phishing","subcategory":"WebWallet","description":"Fake web wallet phishing for secrets with POST /send_private_key.php","reporter":"CryptoScamDB"}
+{"id":"f1b7ac","name":"tokensmarket.online","url":"https://tokensmarket.online","category":"Phishing","subcategory":"WebWallet","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"27f21a","name":"binance-in.com","url":"http://binance-in.com","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance phishing for logins with POST /indexSend.php","reporter":"CryptoScamDB"}
+{"id":"27f21a","name":"binance-in.com","url":"https://binance-in.com","category":"Phishing","subcategory":"Binance","path":"/*"}

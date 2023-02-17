@@ -1,1 +1,1 @@
-{"id":"b7897c","name":"badgerfi.us","url":"http://badgerfi.us","path":"/*","category":"Malware","subcategory":"BadgerDAO","description":"Fake BadgerDAO site hosting malware   BadgerApp-v2.1.0.exe (sha256sum: 26821d0ffc00ff0cdb591df87e509811020a036c9684e2c9c65424229b5b0fa8)","reporter":"CryptoScamDB"}
+{"id":"b7897c","name":"badgerfi.us","url":"https://badgerfi.us","category":"Malware","subcategory":"BadgerDAO","path":"/*"}

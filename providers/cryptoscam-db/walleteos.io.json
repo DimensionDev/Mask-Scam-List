@@ -1,1 +1,1 @@
-{"id":"e99726","name":"walleteos.io","url":"http://walleteos.io","path":"/*","category":"Phishing","subcategory":"EOS","description":"Fake EOS Wallet site. Sending keys to POST /unlock.php","reporter":"CryptoScamDB"}
+{"id":"e99726","name":"walleteos.io","url":"https://walleteos.io","category":"Phishing","subcategory":"EOS","path":"/*"}

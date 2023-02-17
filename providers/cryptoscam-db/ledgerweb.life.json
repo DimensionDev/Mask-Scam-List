@@ -1,1 +1,1 @@
-{"id":"faec06","name":"ledgerweb.life","url":"http://ledgerweb.life","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site phishing for secrets with POST /","reporter":"CryptoScamDB"}
+{"id":"faec06","name":"ledgerweb.life","url":"https://ledgerweb.life","category":"Phishing","subcategory":"Ledger","path":"/*"}

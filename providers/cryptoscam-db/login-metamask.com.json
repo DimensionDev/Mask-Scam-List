@@ -1,1 +1,1 @@
-{"id":"29a550","name":"login-metamask.com","url":"http://login-metamask.com","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with POST /ajax/apps/formSubmitAjax.php","reporter":"CryptoScamDB"}
+{"id":"29a550","name":"login-metamask.com","url":"https://login-metamask.com","category":"Phishing","subcategory":"MetaMask","path":"/*"}

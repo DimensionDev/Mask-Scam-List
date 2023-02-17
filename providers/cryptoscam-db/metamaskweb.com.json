@@ -1,1 +1,1 @@
-{"id":"144833","name":"metamaskweb.com","url":"http://metamaskweb.com","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask site phishing for secrets with POST /logs/seedphrase.php","reporter":"CryptoScamDB"}
+{"id":"144833","name":"metamaskweb.com","url":"https://metamaskweb.com","category":"Phishing","subcategory":"MetaMask","path":"/*"}

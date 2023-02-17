@@ -1,1 +1,1 @@
-{"id":"271b47","name":"walletgenerator.org","url":"http://walletgenerator.org","path":"/*","category":"Phishing","subcategory":"WalletGenerator","description":"Stealing generated keypairs with POST /log.php","reporter":"CryptoScamDB"}
+{"id":"271b47","name":"walletgenerator.org","url":"https://walletgenerator.org","category":"Phishing","subcategory":"WalletGenerator","path":"/*"}

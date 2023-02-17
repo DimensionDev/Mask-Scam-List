@@ -1,1 +1,1 @@
-{"id":"d144e7","name":"keepkey.app","url":"http://keepkey.app","path":"/*","category":"Phishing","subcategory":"Keepkey","description":"Fake KeepKey website phishing for secrets with POST / - promoted by chrome extension edhjpclmgebeknpblibimffefcallglh","reporter":"CryptoScamDB"}
+{"id":"d144e7","name":"keepkey.app","url":"https://keepkey.app","category":"Phishing","subcategory":"Keepkey","path":"/*"}

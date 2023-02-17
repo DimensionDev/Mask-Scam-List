@@ -1,1 +1,1 @@
-{"id":"341fcc","name":"etcv-wallet.co","url":"http://etcv-wallet.co","path":"/*","category":"Phishing","subcategory":"EthereumCV","description":"Fake Ethereum wallet phishing for keys with POST /send.php","reporter":"CryptoScamDB"}
+{"id":"341fcc","name":"etcv-wallet.co","url":"https://etcv-wallet.co","category":"Phishing","subcategory":"EthereumCV","path":"/*"}

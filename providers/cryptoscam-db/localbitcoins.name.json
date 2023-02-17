@@ -1,1 +1,1 @@
-{"id":"92ed49","name":"localbitcoins.name","url":"http://localbitcoins.name","path":"/*","category":"Phishing","subcategory":"LocalBitcoins","description":"Fake LocalBitcoins site phishing for logins","reporter":"CryptoScamDB"}
+{"id":"92ed49","name":"localbitcoins.name","url":"https://localbitcoins.name","category":"Phishing","subcategory":"LocalBitcoins","path":"/*"}

@@ -1,1 +1,1 @@
-{"id":"0f53c6","name":"myetherwallet-rlx.space","url":"http://myetherwallet-rlx.space","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /app/keys.php","reporter":"CryptoScamDB"}
+{"id":"0f53c6","name":"myetherwallet-rlx.space","url":"https://myetherwallet-rlx.space","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

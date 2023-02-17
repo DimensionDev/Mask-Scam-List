@@ -1,1 +1,1 @@
-{"id":"a0f285","name":"connectionlivewallet.net","url":"http://connectionlivewallet.net","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST //api.emailjs.com/api/v1.0/email/send-form (user_id: user_w1169gckie5K2heOYywUL)","reporter":"CryptoScamDB"}
+{"id":"a0f285","name":"connectionlivewallet.net","url":"https://connectionlivewallet.net","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

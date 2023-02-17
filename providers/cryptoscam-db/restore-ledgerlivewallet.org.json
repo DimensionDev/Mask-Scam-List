@@ -1,1 +1,1 @@
-{"id":"f486b8","name":"restore-ledgerlivewallet.org","url":"http://restore-ledgerlivewallet.org","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site phishing for secrets with GET /unlock/privatekey.php?privateKey=<key>&password=&submit=","reporter":"CryptoScamDB"}
+{"id":"f486b8","name":"restore-ledgerlivewallet.org","url":"https://restore-ledgerlivewallet.org","category":"Phishing","subcategory":"Ledger","path":"/*"}

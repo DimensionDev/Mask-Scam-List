@@ -1,1 +1,1 @@
-{"id":"878919","name":"oneish.xyz","url":"http://oneish.xyz","path":"/*","category":"Phishing","subcategory":"1inch","description":"Fake 1inch site phishing for secrets with GET /t.php?phrase=<secret>","reporter":"CryptoScamDB"}
+{"id":"878919","name":"oneish.xyz","url":"https://oneish.xyz","category":"Phishing","subcategory":"1inch","path":"/*"}

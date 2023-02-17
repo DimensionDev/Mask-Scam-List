@@ -1,1 +1,1 @@
-{"id":"6ee33b","name":"uniswap-eth-drop.org","url":"http://uniswap-eth-drop.org","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Uniswap site phishing for secrets with POST /metamask.php?claim","reporter":"CryptoScamDB"}
+{"id":"6ee33b","name":"uniswap-eth-drop.org","url":"https://uniswap-eth-drop.org","category":"Phishing","subcategory":"Uniswap","path":"/*"}

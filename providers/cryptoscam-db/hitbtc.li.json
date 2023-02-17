@@ -1,1 +1,1 @@
-{"id":"85a16f","name":"hitbtc.li","url":"http://hitbtc.li","path":"/*","category":"Phishing","subcategory":"HitBTC","description":"Fake HitBTC phishing for logins with POST /phone.php and POST /sms-code.php","reporter":"CryptoScamDB"}
+{"id":"85a16f","name":"hitbtc.li","url":"https://hitbtc.li","category":"Phishing","subcategory":"Hitbtc","path":"/*"}

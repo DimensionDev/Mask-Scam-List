@@ -1,1 +1,1 @@
-{"id":"a1f4d2","name":"kraken-login.ml","url":"http://kraken-login.ml","path":"/*","category":"Phishing","subcategory":"Kraken","description":"Fake Kraken phishing for logins with POST /logins.php","reporter":"CryptoScamDB"}
+{"id":"a1f4d2","name":"kraken-login.ml","url":"https://kraken-login.ml","category":"Phishing","subcategory":"Kraken","path":"/*"}

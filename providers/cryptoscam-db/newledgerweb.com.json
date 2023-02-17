@@ -1,1 +1,1 @@
-{"id":"708c27","name":"newledgerweb.com","url":"http://newledgerweb.com","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site phishing for keys with POST /telegramform/php/send-message.php","reporter":"CryptoScamDB"}
+{"id":"708c27","name":"newledgerweb.com","url":"https://newledgerweb.com","category":"Phishing","subcategory":"Ledger","path":"/*"}

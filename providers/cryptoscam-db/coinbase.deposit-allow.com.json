@@ -1,1 +1,1 @@
-{"id":"f6fab7","name":"coinbase.deposit-allow.com","url":"http://coinbase.deposit-allow.com","path":"/*","category":"Phishing","subcategory":"Coinbase","description":"Fake Coinbase phishing for logins with POST /","reporter":"CryptoScamDB"}
+{"id":"f6fab7","name":"coinbase.deposit-allow.com","url":"https://coinbase.deposit-allow.com","category":"Phishing","subcategory":"Coinbase","path":"/*"}

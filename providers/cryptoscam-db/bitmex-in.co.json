@@ -1,1 +1,1 @@
-{"id":"b3d2ac","name":"bitmex-in.co","url":"http://bitmex-in.co","path":"/*","category":"Phishing","subcategory":"Bitmex","description":"Fake Bitmex phishing for logins with POST /indexSend.php","reporter":"CryptoScamDB"}
+{"id":"b3d2ac","name":"bitmex-in.co","url":"https://bitmex-in.co","category":"Phishing","subcategory":"Bitmex","path":"/*"}

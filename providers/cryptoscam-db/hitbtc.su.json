@@ -1,1 +1,1 @@
-{"id":"f76e35","name":"hitbtc.su","url":"http://hitbtc.su","path":"/*","category":"Phishing","subcategory":"HitBTC","description":"Fake HitBTC phishing for logins with POST /login.php","reporter":"CryptoScamDB"}
+{"id":"f76e35","name":"hitbtc.su","url":"https://hitbtc.su","category":"Phishing","subcategory":"HitBTC","path":"/*"}

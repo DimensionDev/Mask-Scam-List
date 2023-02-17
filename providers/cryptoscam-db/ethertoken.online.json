@@ -1,1 +1,1 @@
-{"id":"55e9b0","name":"ethertoken.online","url":"http://ethertoken.online","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /bot/bot.php","reporter":"CryptoScamDB"}
+{"id":"55e9b0","name":"ethertoken.online","url":"https://ethertoken.online","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

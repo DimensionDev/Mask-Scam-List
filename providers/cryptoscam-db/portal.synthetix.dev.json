@@ -1,1 +1,1 @@
-{"id":"a336ab","name":"portal.synthetix.dev","url":"http://portal.synthetix.dev","path":"/*","category":"Phishing","subcategory":"Synthetix","description":"Fake Synthetix phishing for secrets with POST /submit.php","reporter":"CryptoScamDB"}
+{"id":"a336ab","name":"portal.synthetix.dev","url":"https://portal.synthetix.dev","category":"Phishing","subcategory":"Synthetix","path":"/*"}

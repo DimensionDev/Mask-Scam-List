@@ -1,1 +1,1 @@
-{"id":"b95dc8","name":"eosauthority.info","url":"https://eosauthority.info","path":"/*","category":"Phishing","subcategory":"EOS","description":"Fake EOS site phishing for private keys (POST store.php)","reporter":"CryptoScamDB"}
+{"id":"b95dc8","name":"eosauthority.info","url":"https://eosauthority.info","category":"Phishing","subcategory":"EOS","path":"/*"}

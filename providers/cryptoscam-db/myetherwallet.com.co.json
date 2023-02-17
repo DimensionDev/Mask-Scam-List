@@ -1,1 +1,1 @@
-{"id":"2877e1","name":"myetherwallet.com.co","url":"http://myetherwallet.com.co","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Scambot phishers / reddit dms did not 404. UPDATE 2018/10/04 - Fake MyEtherWallet phishing for keys with POST /decrypt.php","reporter":"CryptoScamDB"}
+{"id":"2877e1","name":"myetherwallet.com.co","url":"https://myetherwallet.com.co","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

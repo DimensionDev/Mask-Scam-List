@@ -1,1 +1,1 @@
-{"id":"121219","name":"xeppwallet.io","url":"http://xeppwallet.io","path":"/*","category":"Phishing","subcategory":"Xepp","description":"Fake wallet phishing for keys with POST /send.php","reporter":"CryptoScamDB"}
+{"id":"121219","name":"xeppwallet.io","url":"https://xeppwallet.io","category":"Phishing","subcategory":"Xepp","path":"/*"}

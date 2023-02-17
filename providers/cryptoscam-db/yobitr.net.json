@@ -1,1 +1,1 @@
-{"id":"28e673","name":"yobitr.net","url":"http://yobitr.net","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance phishing for logins with POST /send.php (prob mixed webserver config or loading default vhost)","reporter":"CryptoScamDB"}
+{"id":"28e673","name":"yobitr.net","url":"https://yobitr.net","category":"Phishing","subcategory":"Binance","path":"/*"}

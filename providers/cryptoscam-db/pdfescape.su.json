@@ -1,1 +1,1 @@
-{"id":"9aa0be","name":"pdfescape.su","url":"http://pdfescape.su","path":"/*","category":"Phishing","subcategory":"Trust","description":"Fake Trust wallet site phishing for secrets with POST /claimx.php (redirected from get30bnb.live)","reporter":"CryptoScamDB"}
+{"id":"9aa0be","name":"pdfescape.su","url":"https://pdfescape.su","category":"Phishing","subcategory":"Trust","path":"/*"}

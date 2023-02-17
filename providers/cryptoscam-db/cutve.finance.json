@@ -1,1 +1,1 @@
-{"id":"c8952a","name":"cutve.finance","url":"http://cutve.finance","path":"/*","category":"Phishing","subcategory":"Curve","description":"Fake Curve Finance phishing for secrets with POST /data/index.php","reporter":"CryptoScamDB"}
+{"id":"c8952a","name":"cutve.finance","url":"https://cutve.finance","category":"Phishing","subcategory":"Curve","path":"/*"}

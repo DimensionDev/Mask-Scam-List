@@ -1,1 +1,1 @@
-{"id":"b42b6f","name":"myetherwallet.notextbook.net","url":"http://myetherwallet.notextbook.net","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /store.php","reporter":"CryptoScamDB"}
+{"id":"b42b6f","name":"myetherwallet.notextbook.net","url":"https://myetherwallet.notextbook.net","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

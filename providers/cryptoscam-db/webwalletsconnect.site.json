@@ -1,1 +1,1 @@
-{"id":"e3720c","name":"webwalletsconnect.site","url":"http://webwalletsconnect.site","path":"/*","category":"Phishing","subcategory":"WalletConnect","description":"Fake WalletConnect site phishing for secrets with POST /import/mnemonic.php","reporter":"CryptoScamDB"}
+{"id":"e3720c","name":"webwalletsconnect.site","url":"https://webwalletsconnect.site","category":"Phishing","subcategory":"WalletConnect","path":"/*"}

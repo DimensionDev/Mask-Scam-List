@@ -1,1 +1,1 @@
-{"id":"118dbd","name":"myetherwallet-xyo.space","url":"http://myetherwallet-xyo.space","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet phishing for keys with POST /app/keys.php","reporter":"CryptoScamDB"}
+{"id":"118dbd","name":"myetherwallet-xyo.space","url":"https://myetherwallet-xyo.space","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

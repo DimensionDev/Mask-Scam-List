@@ -1,1 +1,1 @@
-{"id":"0c0c6f","name":"chrome-extension.info","url":"http://chrome-extension.info","path":"/*","category":"Phishing","subcategory":"MetaMask","description":"Fake MetaMask website phishing for secrets with POST /nkbihfbeogaeaoehlefnkodbefgpgknn/349a0d6b-9b45-4b67-9f88-b5a9eb787710/download/success.php","reporter":"CryptoScamDB"}
+{"id":"0c0c6f","name":"chrome-extension.info","url":"https://chrome-extension.info","category":"Phishing","subcategory":"MetaMask","path":"/*"}

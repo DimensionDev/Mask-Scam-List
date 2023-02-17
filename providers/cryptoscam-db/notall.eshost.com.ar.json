@@ -1,1 +1,1 @@
-{"id":"ffa2ac","name":"notall.eshost.com.ar","url":"http://notall.eshost.com.ar","path":"/*","category":"Phishing","subcategory":"General","description":"Fake recovery tool phishing for secrets with GET /index2.php?wallet=<private_key>","reporter":"CryptoScamDB"}
+{"id":"ffa2ac","name":"notall.eshost.com.ar","url":"https://notall.eshost.com.ar","category":"Phishing","subcategory":"General","path":"/*"}

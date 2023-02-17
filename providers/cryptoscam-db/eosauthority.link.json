@@ -1,1 +1,1 @@
-{"id":"2b41b6","name":"eosauthority.link","url":"http://eosauthority.link","path":"/*","category":"Phishing","subcategory":"EOS","description":"Fake EOS site phishing for secrets with POST /processpk.php","reporter":"CryptoScamDB"}
+{"id":"2b41b6","name":"eosauthority.link","url":"https://eosauthority.link","category":"Phishing","subcategory":"EOS","path":"/*"}

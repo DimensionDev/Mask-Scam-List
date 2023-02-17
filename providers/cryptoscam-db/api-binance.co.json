@@ -1,1 +1,1 @@
-{"id":"1c3ffe","name":"api-binance.co","url":"http://api-binance.co","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance phishing for logins with POST /_loginSend.php","reporter":"CryptoScamDB"}
+{"id":"1c3ffe","name":"api-binance.co","url":"https://api-binance.co","category":"Phishing","subcategory":"Binance","path":"/*"}

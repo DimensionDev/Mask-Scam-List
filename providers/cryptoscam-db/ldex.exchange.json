@@ -1,1 +1,1 @@
-{"id":"c0b53f","name":"ldex.exchange","url":"http://ldex.exchange","path":"/*","category":"Phishing","subcategory":"Idex","description":"Fake Idex phishing for key siwht GET /c.php?data=xxx","reporter":"CryptoScamDB"}
+{"id":"c0b53f","name":"ldex.exchange","url":"https://ldex.exchange","category":"Phishing","subcategory":"Idex","path":"/*"}

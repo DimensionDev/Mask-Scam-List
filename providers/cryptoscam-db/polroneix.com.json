@@ -1,1 +1,1 @@
-{"id":"ce9747","name":"polroneix.com","url":"http://polroneix.com","path":"/*","category":"Phishing","subcategory":"Binance","description":"Fake Binance phishing for logins with POST /send.php (prob mixed webserver config or loading default vhost)","reporter":"CryptoScamDB"}
+{"id":"ce9747","name":"polroneix.com","url":"https://polroneix.com","category":"Phishing","subcategory":"Poloniex","path":"/*"}

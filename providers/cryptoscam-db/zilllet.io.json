@@ -1,1 +1,1 @@
-{"id":"066bbc","name":"zilllet.io","url":"http://zilllet.io","path":"/*","category":"Phishing","subcategory":"Zillet","description":"Fake Zillet site phishing for secrets with POST /process.php","reporter":"CryptoScamDB"}
+{"id":"066bbc","name":"zilllet.io","url":"https://zilllet.io","category":"Phishing","subcategory":"Zillet","path":"/*"}

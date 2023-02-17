@@ -1,1 +1,1 @@
-{"id":"fb13aa","name":"bittlrex.com","url":"http://bittlrex.com","path":"/*","category":"Phishing","subcategory":"Bittrex","description":"Fake Bittrex phishing for logins with POST /Account/Login","reporter":"CryptoScamDB"}
+{"id":"fb13aa","name":"bittlrex.com","url":"https://bittlrex.com","category":"Phishing","subcategory":"Bittrex","path":"/*"}

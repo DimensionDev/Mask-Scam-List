@@ -1,1 +1,1 @@
-{"id":"50bce1","name":"ledgerlivewallet.000webhostapp.com","url":"http://ledgerlivewallet.000webhostapp.com","path":"/*","category":"Phishing","subcategory":"Ledger","description":"Fake Ledger site acting as a c2 for phished secrets from //ledgerlive.web.app","reporter":"CryptoScamDB"}
+{"id":"50bce1","name":"ledgerlivewallet.000webhostapp.com","url":"https://ledgerlivewallet.000webhostapp.com","category":"Phishing","subcategory":"Ledger","path":"/*"}

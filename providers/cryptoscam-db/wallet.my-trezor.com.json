@@ -1,1 +1,1 @@
-{"id":"14aabe","name":"wallet.my-trezor.com","url":"http://wallet.my-trezor.com","path":"/*","category":"Phishing","subcategory":"Trezor","description":"Fake Trezor site phishing for secrets with POST /860CB68155563F4","reporter":"CryptoScamDB"}
+{"id":"14aabe","name":"wallet.my-trezor.com","url":"https://wallet.my-trezor.com","category":"Phishing","subcategory":"Trezor","path":"/*"}

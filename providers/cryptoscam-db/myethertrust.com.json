@@ -1,1 +1,1 @@
-{"id":"3d7e52","name":"myethertrust.com","url":"http://myethertrust.com","path":"/*","category":"Phishing","subcategory":"MyEtherWallet","description":"Fake MyEtherWallet stealing keys with GET /ajax.php?private=xxxx","reporter":"CryptoScamDB"}
+{"id":"3d7e52","name":"myethertrust.com","url":"https://myethertrust.com","category":"Phishing","subcategory":"MyEtherWallet","path":"/*"}

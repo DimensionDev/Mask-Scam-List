@@ -1,1 +1,1 @@
-{"id":"771582","name":"paxful-com-login.oauth-deriv-binary.website","url":"http://paxful-com-login.oauth-deriv-binary.website","path":"/*","category":"Phishing","subcategory":"Paxful","description":"Fake Paxful site phishing for logins with POST /login.php","reporter":"CryptoScamDB"}
+{"id":"771582","name":"paxful-com-login.oauth-deriv-binary.website","url":"https://paxful-com-login.oauth-deriv-binary.website","category":"Phishing","subcategory":"Paxful","path":"/*"}

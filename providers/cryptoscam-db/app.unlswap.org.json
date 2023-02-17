@@ -1,1 +1,1 @@
-{"id":"28102f","name":"app.unlswap.org","url":"http://app.unlswap.org","path":"/*","category":"Phishing","subcategory":"Uniswap","description":"Fake Uniswap phishing for secrets with POST /googleanalytics.php","reporter":"CryptoScamDB"}
+{"id":"28102f","name":"app.unlswap.org","url":"https://app.unlswap.org","category":"Phishing","subcategory":"Uniswap","path":"/*"}

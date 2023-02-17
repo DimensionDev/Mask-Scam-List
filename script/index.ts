@@ -3,52 +3,92 @@ import path from 'node:path'
 import fs from 'node:fs/promises'
 import { ScalableBloomFilter } from 'bloom-filters'
 
-export const DATA_URL = 'https://api.cryptoscamdb.org/v1/scams'
-
-export type Response = {
-  success: boolean
-  result: Array<Site>
-}
+const DATA_URL = 'https://cryptoscamdb.org/static/d/673/path---scams-bf-2-dc7-0VVF30h6QoRV8WgPAXPajXDZNQ.json'
 
 interface Site {
   id: string
   name: string
+  description?: string
   url: string
   path: string
   category: string
   subcategory: string
-  description: string
-  reporter: string
+  reporter?: string
 }
+
+interface SiteNode {
+  node: {
+    id: string
+    csdbId: string
+    category?: string
+    subcategory: string
+    name: string
+    status: string
+  }
+}
+
+interface SiteStatsNode {
+  node: {
+    actives: number
+    addresses: number
+    featured: number
+    inactives: number
+    scams: number
+    verified: number
+  }
+}
+
+interface Response {
+  data: {
+    allCsdbScamDomains: {
+      edges: SiteNode[]
+      totalCount: number
+    }
+    allCsdbStats: {
+      edges: SiteStatsNode[]
+    }
+  }
+  pageContext: {
+    isCreatedByStatefulCreatePages: boolean
+  }
+}
+
 // @ts-ignore
 const outputDir = path.join(process.env.PWD, 'providers/cryptoscam-db')
 
-export async function writeSingleWebsiteToFile(website: string, data: Site) {
+async function writeSingleWebsiteToFile(website: string, data: Site) {
   await fs.writeFile(path.join(outputDir, `${website?.toLowerCase()}.json`), JSON.stringify(data), {
     encoding: 'utf-8',
   })
 }
 
-export async function writeFilterToFile(data: Site) {
+async function writeFilterToFile(data: Site) {
   await fs.writeFile(path.join(outputDir, 'filter', 'config.json'), JSON.stringify(data), {
     encoding: 'utf-8',
   })
 }
 
-export async function main() {
-  const result = await axios.get<Response>(DATA_URL)
-  if (!result.data.success) {
+async function main() {
+  const { data } = await axios.get<Response>(DATA_URL)
+  if (!data.data.allCsdbScamDomains.edges.length) {
     console.log('Fetch db data from API failed!')
     return
   }
 
-  const list = result.data.result
+  const list = data.data.allCsdbScamDomains.edges.map((x) => x.node)
   const filter = new ScalableBloomFilter(list.length)
 
   for (const site of list) {
     if (site.name === 'https') continue
     filter.add(site.name)
-    await writeSingleWebsiteToFile(site.name, site)
+    await writeSingleWebsiteToFile(site.name, {
+      id: site.csdbId,
+      name: site.name,
+      url: site.name.startsWith('http') ? site.name : `https://${site.name}`,
+      category: site.category ?? '',
+      subcategory: site.subcategory,
+      path: '/*',
+    })
   }
 
   const filterConfig = filter.saveAsJSON()

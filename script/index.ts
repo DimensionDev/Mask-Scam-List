@@ -2,8 +2,7 @@ import axios from 'axios'
 import path from 'node:path'
 import fs from 'node:fs/promises'
 import { ScalableBloomFilter } from 'bloom-filters'
-
-const DATA_URL = 'https://cryptoscamdb.org/static/d/673/path---scams-bf-2-dc7-0VVF30h6QoRV8WgPAXPajXDZNQ.json'
+import { config } from 'dotenv'
 
 interface Site {
   id: string
@@ -53,23 +52,26 @@ interface Response {
   }
 }
 
+// load env
+config()
+
 // @ts-ignore
-const outputDir = path.join(process.env.PWD, 'providers/cryptoscam-db')
+const OUTPUT_DIR = path.join(process.env.PWD, 'providers/cryptoscam-db')
 
 async function writeSingleWebsiteToFile(website: string, data: Site) {
-  await fs.writeFile(path.join(outputDir, `${website?.toLowerCase()}.json`), JSON.stringify(data), {
+  await fs.writeFile(path.join(OUTPUT_DIR, `${website?.toLowerCase()}.json`), JSON.stringify(data), {
     encoding: 'utf-8',
   })
 }
 
 async function writeFilterToFile(data: Site) {
-  await fs.writeFile(path.join(outputDir, 'filter', 'config.json'), JSON.stringify(data), {
+  await fs.writeFile(path.join(OUTPUT_DIR, 'filter', 'config.json'), JSON.stringify(data), {
     encoding: 'utf-8',
   })
 }
 
 async function main() {
-  const { data } = await axios.get<Response>(DATA_URL)
+  const { data } = await axios.get<Response>(process.env.CRYPTO_SCAM_DB_URL)
   if (!data.data.allCsdbScamDomains.edges.length) {
     console.log('Fetch db data from API failed!')
     return
@@ -95,7 +97,7 @@ async function main() {
   await writeFilterToFile(filterConfig)
 
   // Make sure bloom filter is work
-  const content = await fs.readFile(path.join(outputDir, 'filter', 'config.json'), { encoding: 'utf-8' })
+  const content = await fs.readFile(path.join(OUTPUT_DIR, 'filter', 'config.json'), { encoding: 'utf-8' })
   const contentJSON = JSON.parse(content)
   const importedFilter = ScalableBloomFilter.fromJSON(contentJSON)
 

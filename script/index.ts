@@ -5,6 +5,16 @@ import { ScalableBloomFilter } from 'bloom-filters'
 
 const DATA_URL = 'https://cryptoscamdb.org/static/d/673/path---scams-bf-2-dc7-0VVF30h6QoRV8WgPAXPajXDZNQ.json'
 
+const WHITELIST_DOMAINS = [
+  'twitter.com',
+  'facebook.com',
+  'instagram.com',
+  'github.com',
+  'mirror.xyz',
+  'opensea.io',
+  'minds.com',
+]
+
 interface Site {
   id: string
   name: string
@@ -75,7 +85,7 @@ async function main() {
     return
   }
 
-  const list = data.data.allCsdbScamDomains.edges.map((x) => x.node)
+  const list = data.data.allCsdbScamDomains.edges.map((x) => x.node).filter((y) => !WHITELIST_DOMAINS.includes(y.name))
   const filter = new ScalableBloomFilter(list.length)
 
   for (const site of list) {

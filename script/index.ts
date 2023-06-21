@@ -13,6 +13,10 @@ const WHITELIST_DOMAINS = [
   'mirror.xyz',
   'opensea.io',
   'minds.com',
+  'youtube.com',
+  'lenster.xyz',
+  'warpcast.com',
+  'discove.xyz',
 ]
 
 interface Site {

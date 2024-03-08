@@ -1,8 +1,11 @@
 name: Generate and Deploy
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      url:
+        description: 'URL for the Crypto Scam Database'
+        required: true
+        type: string
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -17,6 +20,8 @@ jobs:
           cache: 'pnpm'
       - run: pnpm install
       - run: pnpm run generate
+        env:
+          CRYPTO_SCAM_DB_URL: ${{ inputs.url }}
       - uses: EndBug/add-and-commit@v9
         with:
           add: 'providers'

@@ -71,6 +71,8 @@ async function writeFilterToFile(data: Site) {
 }
 
 async function main() {
+  if (!process.env.CRYPTO_SCAM_DB_URL) throw new Error('CRYPTO_SCAM_DB_URL is not defined')
+
   const { data } = await axios.get<Response>(process.env.CRYPTO_SCAM_DB_URL)
   if (!data.data.allCsdbScamDomains.edges.length) {
     console.log('Fetch db data from API failed!')

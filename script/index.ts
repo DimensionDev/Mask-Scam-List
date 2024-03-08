@@ -4,6 +4,20 @@ import fs from 'node:fs/promises'
 import { ScalableBloomFilter } from 'bloom-filters'
 import { config } from 'dotenv'
 
+const WHITELIST_DOMAINS = [
+  'twitter.com',
+  'facebook.com',
+  'instagram.com',
+  'github.com',
+  'mirror.xyz',
+  'opensea.io',
+  'minds.com',
+  'youtube.com',
+  'lenster.xyz',
+  'warpcast.com',
+  'discove.xyz',
+]
+
 interface Site {
   id: string
   name: string
@@ -83,7 +97,7 @@ async function main() {
     return
   }
 
-  const list = data.data.allCsdbScamDomains.edges.map((x) => x.node)
+  const list = data.data.allCsdbScamDomains.edges.map((x) => x.node).filter((y) => !WHITELIST_DOMAINS.includes(y.name))
   const filter = new ScalableBloomFilter(list.length)
 
   for (const site of list) {

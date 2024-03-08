@@ -113,7 +113,7 @@ async function main() {
     })
   }
 
-  console.log(`[DEBUG] ${filter.capacity()} items created.`)
+  console.log(`[DEBUG] ${list.length} items created.`)
 
   const filterConfig = filter.saveAsJSON()
   await writeFilterToFile(filterConfig)

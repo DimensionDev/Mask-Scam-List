@@ -59,6 +59,8 @@ config()
 const OUTPUT_DIR = path.join(process.env.PWD, 'providers/cryptoscam-db')
 
 async function writeSingleWebsiteToFile(website: string, data: Site) {
+  console.log(`[DEBUG] Write ${website} to file.`)
+
   await fs.writeFile(path.join(OUTPUT_DIR, `${website?.toLowerCase()}.json`), JSON.stringify(data), {
     encoding: 'utf-8',
   })
@@ -71,11 +73,13 @@ async function writeFilterToFile(data: Site) {
 }
 
 async function main() {
-  if (!process.env.CRYPTO_SCAM_DB_URL) throw new Error('CRYPTO_SCAM_DB_URL is not defined')
+  if (!process.env.CRYPTO_SCAM_DB_URL) throw new Error('[ERROR] CRYPTO_SCAM_DB_URL is not defined')
+
+  console.log(`[DEBUG] Fetch data from ${process.env.CRYPTO_SCAM_DB_URL}.`)
 
   const { data } = await axios.get<Response>(process.env.CRYPTO_SCAM_DB_URL)
   if (!data.data.allCsdbScamDomains.edges.length) {
-    console.log('Fetch db data from API failed!')
+    console.log('[ERROR] Fetch db data from API failed!')
     return
   }
 
@@ -95,6 +99,8 @@ async function main() {
     })
   }
 
+  console.log(`[DEBUG] ${filter.capacity()} items created.`)
+
   const filterConfig = filter.saveAsJSON()
   await writeFilterToFile(filterConfig)
 
@@ -107,6 +113,8 @@ async function main() {
     if (item.name === 'https') continue
     if (!importedFilter.has(item.name)) throw new Error('Bloom Filter create failed')
   }
+
+  console.log('[DEBUG] Bloom Filter created successfully.')
 }
 
 main()

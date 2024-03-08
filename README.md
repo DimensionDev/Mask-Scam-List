@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This repo includes the Mask Network domain warning list which are a source of malware, phishing and spam. 
-The warning data from [CryptoScamDB](https://cryptoscamdb.org/).
+This repo includes the Mask Network domain warning list which are a source of malware, phishing and spam. The warning data from
+[CryptoScamDB](https://cryptoscamdb.org/).
 
 ## Install
 
